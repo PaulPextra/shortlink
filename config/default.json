@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://paulokoli:O1DkzYw759g9D0Kp@shortlinkcluster.z7jj5dr.mongodb.net/?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
